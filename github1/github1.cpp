@@ -3,7 +3,8 @@
 
 #include <stdio.h>
 int main() {
-	printf("My Name is Arsh Dhiman");
+	printf("My Name is Arsh Dhiman\n");
+	printf("I am 18 Years old\n");
 	return 0;
 }
 
