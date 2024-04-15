@@ -4,7 +4,7 @@
 #include <stdio.h>
  int main() {
 
-	printf("Sheridan College");
+	printf("Seneca college");
 	return 0;
 }
 
