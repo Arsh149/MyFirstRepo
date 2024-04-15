@@ -2,9 +2,9 @@
 //
 
 #include <stdio.h>
-int main() {
-	printf("My Name is Arsh Dhiman\n");
-	printf("I am 18 Years old\n");
+ int main() {
+
+	printf("Sheridan College");
 	return 0;
 }
 
